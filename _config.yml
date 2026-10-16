@@ -1,0 +1,3 @@
+# Serve voc.md as raw Markdown only: stop GitHub Pages from also rendering it to voc.html.
+optional_front_matter:
+  enabled: false

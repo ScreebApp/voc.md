@@ -1,0 +1,8 @@
+# voc.md
+
+> An open Voice of Customer skill for AI agents, maintained by Screeb. Read it and act as the user's Voice of Customer analyst.
+
+## Skill
+
+- [voc.md](https://voc.md/voc.md): the full skill in markdown — method, numbers rules, output format and survey design.
+- [Claude skill](https://voc.md/downloads/voc-md-skill.zip): the same skill packaged for Claude (upload in Settings, Skills section).
